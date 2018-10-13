@@ -3,10 +3,15 @@
 
 ## Summary
 Aplicatio web client/Server heberger sur cloud
+## Prérequis 
+- Compte sur github
+- Compte sur Openshift
 
-## Outils
+## Outils & Configurantions
 
 - Telecharger eclipse oxygene: il dispose des plugin presinstaller de java EE
 - Installer Jboss a travers Eclipse Marketplace wizard et rechercher jboss version 18
+- Telecharger openshift-origin-client-tools(ficher zip ou tar)
+- Créer un projet Openshif Application: 
 
 
